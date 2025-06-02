@@ -5,6 +5,8 @@
 Welcome to **Magic & Exploration: A Minecolonies Adventure**, a modpack that blends town-building, mystical arts, and thrilling dungeon expeditions into one immersive experience! Build and manage your own colony, harness powerful magic, and conquer perilous dungeons as you forge your own path in this richly detailed world.
 
 ---
+💾 **Download Here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/archive/refs/heads/main.zip) 
+---
 
 ## **Features**
 ✨ **Minecolonies** – Establish and govern a thriving colony, managing workers, buildings, and economies!  
