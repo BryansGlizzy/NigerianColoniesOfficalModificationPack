@@ -1,0 +1,42 @@
+{
+    "entity.villager.ambient": {
+        "replace": true,
+        "sounds": [
+			{"name": "idle1", "weight": 100 },
+			{"name": "idle2", "weight": 100 },
+			{"name": "idle3", "weight": 100 },
+			{"name": "sophie", "volume": 4.0, "weight": 1 },
+			{"name": "imgonna", "volume": 3.0, "weight": 4 },
+			{"name": "bigtor", "volume": 1.5, "weight": 4 },
+			{"name": "daddy", "volume": 1.2, "weight": 4 },
+			{"name": "itsyourgold", "volume": 2.0, "weight": 20 },
+			{"name": "uwu", "volume": 1.2, "weight": 4 }
+        ]
+    },
+	    "entity.villager.no": {
+        "replace": true,
+        "sounds": [
+			{"name": "no1", "weight": 30 },
+			{"name": "no2", "weight": 30 },
+			{"name": "no3", "weight": 30 },
+			{"name": "burgerking", "volume": 2.0, "weight": 6 },
+			{"name": "daddy", "volume": 1.2, "weight": 4 },
+			{"name": "imgonna", "volume": 3.0, "weight": 6 },
+			{"name": "uwu", "volume": 1.2, "weight": 4 },
+			{"name": "rizzler", "volume": 1.0, "weight": 1 },
+			{"name": "gegage", "volume": 1.0, "weight": 1 },
+			{"name": "ambatukam", "volume": 1.0, "weight": 1 }
+        ]
+    },
+	    "entity.villager.trade": {
+        "replace": true,
+        "sounds": [
+			{"name": "haggle1", "weight": 10 },
+			{"name": "haggle2", "weight": 10 },
+			{"name": "haggle3", "weight": 10 },
+			{"name": "rizzler", "volume": 1.0, "weight": 5 },
+			{"name": "gegage", "volume": 1.0, "weight": 5 },
+			{"name": "ambatukam", "volume": 1.0, "weight": 1 }
+        ]
+    }
+}
