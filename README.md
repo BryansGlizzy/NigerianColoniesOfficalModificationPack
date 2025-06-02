@@ -34,5 +34,5 @@ Welcome to **Magic & Exploration: A Minecolonies Adventure**, a modpack that ble
 Ready to embark on an epic journey? Download the modpack, gather your allies, and build your legacy! Whether you thrive as a master magician, fearless explorer, or colony leader, **Magic & Exploration: A Minecolonies Adventure** is your gateway to infinite possibilities.  
 
 ---
-💾 **Download Here:** [Insert your download link]  
+💾 **Download Here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/archive/refs/heads/main.zip) 
 💬 **Community & Support:** We cant afford this yet
