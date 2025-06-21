@@ -2,15 +2,18 @@
     "entity.villager.ambient": {
         "replace": true,
         "sounds": [
-			{"name": "idle1", "weight": 100 },
-			{"name": "idle2", "weight": 100 },
-			{"name": "idle3", "weight": 100 },
-			{"name": "sophie", "volume": 4.0, "weight": 1 },
+			{"name": "idle1", "weight": 120 },
+			{"name": "idle2", "weight": 120 },
+			{"name": "idle3", "weight": 120 },
+			{"name": "sophie", "volume": 4.0, "weight": 2 },
+			{"name": "sophie2", "volume": 3.0, "weight": 1 },
 			{"name": "imgonna", "volume": 3.0, "weight": 4 },
-			{"name": "bigtor", "volume": 1.5, "weight": 4 },
-			{"name": "daddy", "volume": 1.2, "weight": 4 },
-			{"name": "itsyourgold", "volume": 2.0, "weight": 20 },
-			{"name": "uwu", "volume": 1.2, "weight": 4 }
+			{"name": "bigtor", "volume": 1.5, "weight": 8 },
+			{"name": "daddy", "volume": 1.2, "weight": 6 },
+			{"name": "itsyourgold", "volume": 2.0, "weight": 30 },
+			{"name": "weseethefit", "volume": 2.5, "weight": 8 },
+			{"name": "addressmeasmommy", "volume": 2.5, "weight": 10 },
+			{"name": "uwu", "volume": 1.2, "weight": 6 }
         ]
     },
 	    "entity.villager.no": {
