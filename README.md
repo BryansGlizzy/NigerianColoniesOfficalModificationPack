@@ -5,7 +5,9 @@
 Welcome to **Magic & Exploration: A Minecolonies Adventure**, a modpack that blends town-building, mystical arts, and thrilling dungeon expeditions into one immersive experience! Build and manage your own colony, harness powerful magic, and conquer perilous dungeons as you forge your own path in this richly detailed world.
 
 ---
-💾 **Download Here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/archive/refs/heads/main.zip) 
+💾 **Download The Installer .EXE here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/raw/refs/heads/main/OMEGAUPDATERPERFECTEDITIONPLATINUMMADZAWORLDO.exe) 
+---
+You Will Need Prism Launcher for this Modpack.
 ---
 
 ## **Features**
@@ -36,5 +38,5 @@ Welcome to **Magic & Exploration: A Minecolonies Adventure**, a modpack that ble
 Ready to embark on an epic journey? Download the modpack, gather your allies, and build your legacy! Whether you thrive as a master magician, fearless explorer, or colony leader, **Magic & Exploration: A Minecolonies Adventure** is your gateway to infinite possibilities.  
 
 ---
-💾 **Download Here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/archive/refs/heads/main.zip) 
+💾 **Download The Pack Manually Here:** [PEAK GAMING STARTS HERE](https://github.com/BryansGlizzy/NigerianColoniesOfficalModificationPack/archive/refs/heads/main.zip) 
 💬 **Community & Support:** We cant afford this yet
